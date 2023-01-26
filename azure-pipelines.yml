@@ -3,7 +3,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'ubuntu-22.latest'
+  vmImage: 'ubuntu-latest'
 
 variables:
   buildConfiguration: 'Release'
